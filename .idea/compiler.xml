@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Flashcards.Flashcards-task-build-classes-java.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-reports-tests.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-test-results.main" target="11" />
+      <module name="Flashcards.Flashcards-task-build-tmp.main" target="11" />
+      <module name="Flashcards.Flashcards-task.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Addresses.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-compareTo.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Comparing_objects.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Implement_Comparable.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Implement_compareTo_method.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Implement_comparing_by_additional_fields.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Leaderboard.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Natural_ordering.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Ratings.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Rewrite_compareTo_method.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Rules.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Theory.main" target="11" />
+      <module name="Flashcards.Topics-Comparable-Value_class.main" target="11" />
+      <module name="Flashcards.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
